@@ -32,7 +32,7 @@ I am a **Security Researcher & Frontend Developer** passionate about building se
     <td><a href="https://github.com/AsadTheKitty"><img src="https://raw.githubusercontent.com/AsadTheKitty/AsadTheKitty/main/assets/protfolio.png" width="330" height="180"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AsadTheKitty"><img src="https://raw.githubusercontent.com/AsadTheKitty/AsadTheKitty/main/assets/Labs.png" width="330" height="180"/></a></td>
+    <td><a href="https://github.com/ProjectandLabs"><img src="https://raw.githubusercontent.com/AsadTheKitty/AsadTheKitty/main/assets/Labs.png" width="330" height="180"/></a></td>
     <td><a href="https://github.com/My-Notes-Roadmap-and-cheatsheets"><img src="https://raw.githubusercontent.com/AsadTheKitty/AsadTheKitty/main/assets/Brainstorm.png" width="330" height="180"/></a></td>
   </tr>
 </table>
