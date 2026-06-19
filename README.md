@@ -12,6 +12,13 @@
     <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/-Docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker"/></a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/AsadTheKitty/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=AsadTheKitty&data=followers,repositories,stars,commits&theme=catppuccin" alt="GitHub WidgetBox" />
+  </a>
+</div>
+
+
 ## 👻 A little about me... 
 > *"I illuminate everything that is not light"* 
 
