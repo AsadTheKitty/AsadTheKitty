@@ -14,7 +14,7 @@
     <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/-Kali%20Linux-1e1e2e?style=for-the-badge&logo=kali-linux&logoColor=74c7ec" alt="Kali Linux"/></a>
 </div>
 
-## 👻 A little about me... 
+##  ghost A little about me... 
 > *"I illuminate everything that is not light"* 
 
 I am a **Cyber Security & Backend Developer** specializing in **Deception Engineering** and automated threat detection platforms. I develop custom orchestration setups that flip the script on malicious actors by predicting analysis steps and engineering active illusions. I run a keyboard-driven local workstation layout tailored for continuous testing, deployment simulations, and telemetry parsing.
@@ -24,6 +24,7 @@ I am a **Cyber Security & Backend Developer** specializing in **Deception Engine
 *   🔬 **Home Labbing:** Dedicated virtualized networks running defensive/offensive nodes, tracking domain controller event forwarders, and executing exploits.
 *   🦀 **Deepening knowledge:** Moving closer to the metal by studying memory-safe security engineering with **Rust**.
 *   🎮 **Escaping reality in:** *Sky: Children of the Light*, *Dragon Raja*, and deep modded *Minecraft* automation.
+
 ## 🏢 My Organizations (Clickable)
 
 <div align="center">
@@ -34,7 +35,7 @@ I am a **Cyber Security & Backend Developer** specializing in **Deception Engine
   </tr>
   <tr>
     <td><a href="https://github.com/AsadTheKitty"><img src="https://raw.githubusercontent.com/AsadTheKitty/AsadTheKitty/main/assets/designs.png" width="330" height="180"/></a></td>
-    <td><a href="https://github.com/AsadTheKitty"><img src="https://raw.githubusercontent.com/AsadTheKitty/AsadTheKitty/main/assets/education.png" width="330" height="180"/></a></td>
+    <td><a href="https://github.com/My-Notes-Roadmap-and-cheatsheets"><img src="https://raw.githubusercontent.com/AsadTheKitty/AsadTheKitty/main/assets/education.png" width="330" height="180"/></a></td>
   </tr>
 </table>
 </div>
@@ -42,6 +43,7 @@ I am a **Cyber Security & Backend Developer** specializing in **Deception Engine
 > [!CAUTION]
 > My projects are also stored in organizations. \
 > In fact, the best projects are often stored there.
+
 ```javascript
 const Factor = {
     OS: ["Windows 11 Pro (Rice layout forced via Komorebi/GlazeWM)"],
