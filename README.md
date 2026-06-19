@@ -17,7 +17,7 @@
 
 I am a **Security Researcher & Frontend Developer** passionate about building secure, performant systems. My work bridges the gap between offensive security research and clean, reactive UI/UX. I specialize in deception engineering and terminal-centric workflows, currently scaling into backend architecture and intelligent agentic systems.
 
-*   🔭 **Current Focus:** Engineering Python microservices for active defense and deception.
+*   🔭 **Current Focus:** Engineering Python automation, microservices for active defense and deception.
 *   🛡️ **Security Research:** Vulnerability auditing, exploit defense, and telemetry pipeline development.
 *   🤖 **AI/Agentic Systems:** Integrating **MCP** to bridge AI agents with local developer tools and data.
 *   🔬 **Infrastructure:** Proficient with **Docker**, **Ubuntu**, **WSL**, and **VMs** for creating isolated testing environments.
