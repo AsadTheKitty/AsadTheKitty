@@ -55,3 +55,9 @@ const Factor = {
     },
     utilities: ["Docker", "Neovim", "Git", "LazyGit", "Yazi", "FZF"]
 };
+```
+<div align="center">
+    <br/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm4wcnlhb3Z3ZXhiNG0xYmx5NGxlenpkaGhydTR1aTlqYnR0MXFkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSNZvu4F954b80ZGI0/giphy.gif" alt="Dark Souls Praise The Sun" width="200"/>
+    <p><i>\o/ Praise the Sun! \o/</i></p>
+</div>
