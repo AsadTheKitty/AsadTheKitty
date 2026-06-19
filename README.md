@@ -34,7 +34,7 @@ I am a **Cyber Security & Backend Developer** specializing in **Deception Engine
     <td><a href="https://github.com/AsadTheKitty"><img src="https://raw.githubusercontent.com/AsadTheKitty/AsadTheKitty/main/assets/protfolio.png" width="330" height="180"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AsadTheKitty"><img src="https://raw.githubusercontent.com/AsadTheKitty/AsadTheKitty/main/assets/designs.png" width="330" height="180"/></a></td>
+    <td><a href="https://github.com/AsadTheKitty"><img src="https://raw.githubusercontent.com/AsadTheKitty/AsadTheKitty/main/assets/Labs.png" width="330" height="180"/></a></td>
     <td><a href="https://github.com/My-Notes-Roadmap-and-cheatsheets"><img src="https://raw.githubusercontent.com/AsadTheKitty/AsadTheKitty/main/assets/education.png" width="330" height="180"/></a></td>
   </tr>
 </table>
