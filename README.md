@@ -14,7 +14,7 @@
     <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/-Kali%20Linux-1e1e2e?style=for-the-badge&logo=kali-linux&logoColor=74c7ec" alt="Kali Linux"/></a>
 </div>
 
-##  ghost A little about me... 
+## A little about me... 
 > *"I illuminate everything that is not light"* 
 
 I am a **Cyber Security & Backend Developer** specializing in **Deception Engineering** and automated threat detection platforms. I develop custom orchestration setups that flip the script on malicious actors by predicting analysis steps and engineering active illusions. I run a keyboard-driven local workstation layout tailored for continuous testing, deployment simulations, and telemetry parsing.
