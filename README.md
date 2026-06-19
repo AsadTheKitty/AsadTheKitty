@@ -6,24 +6,22 @@
 </div>
 
 <div align="center">
-    <!-- Perfectly balanced, low-contrast Catppuccin Mocha aesthetic -->
     <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/-GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="GitHub"/></a>
     <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/-Neovim-1e1e2e?style=for-the-badge&logo=neovim&logoColor=a6e3a1" alt="Neovim"/></a>
-    <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/-Windows%2011-1e1e2e?style=for-the-badge&logo=windows&logoColor=89b4fa" alt="Windows 11"/></a>
-    <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/-Linux%20WSL-1e1e2e?style=for-the-badge&logo=linux&logoColor=f9e2af" alt="Linux WSL"/></a>
-    <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/-Kali%20Linux-1e1e2e?style=for-the-badge&logo=kali-linux&logoColor=74c7ec" alt="Kali Linux"/></a>
+    <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/-Linux%20Ubuntu-1e1e2e?style=for-the-badge&logo=ubuntu&logoColor=e95420" alt="Ubuntu"/></a>
+    <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/-Docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker"/></a>
 </div>
 
-## A little about me... 
+## 👻 A little about me... 
 > *"I illuminate everything that is not light"* 
 
-I am a **Cyber Security & Backend Developer** specializing in **Deception Engineering** and automated threat detection platforms. I develop custom orchestration setups that flip the script on malicious actors by predicting analysis steps and engineering active illusions. I run a keyboard-driven local workstation layout tailored for continuous testing, deployment simulations, and telemetry parsing.
+I am a **Security Researcher & Frontend Developer** passionate about building secure, performant systems. My work bridges the gap between offensive security research and clean, reactive UI/UX. I specialize in deception engineering and terminal-centric workflows, currently scaling into backend architecture and intelligent agentic systems.
 
-*   🔭 **Currently crafting:** A centralized **Canary Deployment Engine** leveraging Python microservices to deploy active honey-tokens (honeyfiles, fake registry entries) and capture live compromise alerts.
-*   🛡️ **Specializing in:** Programmatic exploitation defenses, active telemetry pipelines, and real-time alert systems using **FastAPI**.
-*   🔬 **Home Labbing:** Dedicated virtualized networks running defensive/offensive nodes, tracking domain controller event forwarders, and executing exploits.
-*   🦀 **Deepening knowledge:** Moving closer to the metal by studying memory-safe security engineering with **Rust**.
-*   🎮 **Escaping reality in:** *Sky: Children of the Light*, *Dragon Raja*, and deep modded *Minecraft* automation.
+*   🔭 **Current Focus:** Engineering Python microservices for active defense and deception.
+*   🛡️ **Security Research:** Vulnerability auditing, exploit defense, and telemetry pipeline development.
+*   🤖 **AI/Agentic Systems:** Integrating **MCP** to bridge AI agents with local developer tools and data.
+*   🔬 **Infrastructure:** Proficient with **Docker**, **Ubuntu**, **WSL**, and **VMs** for creating isolated testing environments.
+*   🦀 **Systems Engineering:** Deepening knowledge in memory-safe programming with **Rust**.
 
 ## 🏢 My Organizations (Clickable)
 
@@ -40,28 +38,14 @@ I am a **Cyber Security & Backend Developer** specializing in **Deception Engine
 </table>
 </div>
 
-> [!CAUTION]
-> My projects are also stored in organizations. \
-> In fact, the best projects are often stored there.
-
 ```javascript
 const Factor = {
-    OS: ["Windows 11 Pro (Rice layout forced via Komorebi/GlazeWM)"],
-    editor: "Neovim (Tokyo Night / Catppuccin Mocha distributions)",
-    terminal: "CMD + Clink setup with customized OMP templates",
-    homeLab: {
-        hypervisors: ["VMware Workstation", "VirtualBox"],
-        platforms: ["Kali Linux", "Metasploitable2", "Custom Vulnerable Boxes", "Windows Evaluation Server"],
-        securityResearch: ["Deception Engineering", "Honey-tokens", "Active Directory Event Auditing", "Penetration Testing"]
+    OS: ["Windows 11", "Ubuntu (WSL2/Native)"],
+    devStack: {
+        languages: ["Python", "Rust", "C++", "JavaScript"],
+        web: ["React", "FastAPI", "WebSockets"],
+        security: ["Vulnerability Research", "Deception Systems", "Event Auditing"],
+        aiOps: ["MCP", "Hugging Face", "Ollama"]
     },
-    languages: {
-        lovingly: ["Python", "Rust", "C++", "GoLang"],
-        practically: ["Lua", "JavaScript", "SQL", "PowerShell", "Bash"],
-        academically: ["Statistics", "Mathematics", "Computer Science", "Physics", "Chemistry", "Biology", "Psychology"]
-    },
-    tools: {
-        frameworks: ["FastAPI", "WebSockets", "Asynchronous REST APIs"],
-        security: ["Metasploit", "Nmap", "Windows .NET File Watchers", "Event Forwarding"],
-        utilities: ["Yazi", "Scoop", "FZF", "Ripgrep", "WSL Neovide", "Git"]
-    }
+    utilities: ["Docker", "Neovim", "Git", "LazyGit", "Yazi", "FZF"]
 };
