@@ -56,6 +56,12 @@ const Factor = {
     utilities: ["Docker", "Neovim", "Git", "LazyGit", "Yazi", "FZF"]
 };
 ```
+<details>
+    <summary><h2>📜 Data Analyst Certificate</h2></summary>
+    <div align="center">
+        <img src="assets/Data_Analyst_cert.png" width="600" alt="Data Analyst with Python Certificate"/>
+    </div>
+</details>
 <div align="center">
     <br/>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm4wcnlhb3Z3ZXhiNG0xYmx5NGxlenpkaGhydTR1aTlqYnR0MXFkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSNZvu4F954b80ZGI0/giphy.gif" alt="Dark Souls Praise The Sun" width="200"/>
