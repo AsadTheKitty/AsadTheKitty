@@ -41,6 +41,7 @@ const Factor = {
     utilities: ["Docker", "Neovim", "Git", "LazyGit", "Yazi", "FZF"]
 };
 ```
+<br/>
 
 # 🏢 Ecosystem
 
@@ -99,7 +100,7 @@ const Factor = {
 <details>
     <summary><h2>📜 Data Analyst Certificate</h2></summary>
     <div align="center">
-        <img src="assets/Data_Analyst_cert.png" width="600" alt="Data Analyst with Python Certificate"/>
+        <img src="assets/Data_Analyst_cert.png" width="500" alt="Data Analyst with Python Certificate"/>
     </div>
 </details>
 <div align="center">
