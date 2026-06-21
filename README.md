@@ -29,6 +29,18 @@ I am a **Security Researcher & Frontend Developer** passionate about building se
 *   🔬 **Infrastructure:** Proficient with **Docker**, **Ubuntu**, **WSL**, and **VMs** for creating isolated testing environments.
 *   🦀 **Systems Engineering:** Deepening knowledge in memory-safe programming with **Rust**.
 
+```javascript
+const Factor = {
+    OS: ["Windows 11", "Ubuntu (WSL2/Native)"],
+    devStack: {
+        languages: ["Python", "Rust", "C++", "JavaScript"],
+        web: ["React", "FastAPI", "WebSockets"],
+        security: ["Vulnerability Research", "Deception Systems", "Event Auditing"],
+        aiOps: ["MCP", "Hugging Face", "Ollama"]
+    },
+    utilities: ["Docker", "Neovim", "Git", "LazyGit", "Yazi", "FZF"]
+};
+```
 
 # 🏢 Ecosystem
 
@@ -83,18 +95,6 @@ I am a **Security Researcher & Frontend Developer** passionate about building se
 </div>
 
 
-```javascript
-const Factor = {
-    OS: ["Windows 11", "Ubuntu (WSL2/Native)"],
-    devStack: {
-        languages: ["Python", "Rust", "C++", "JavaScript"],
-        web: ["React", "FastAPI", "WebSockets"],
-        security: ["Vulnerability Research", "Deception Systems", "Event Auditing"],
-        aiOps: ["MCP", "Hugging Face", "Ollama"]
-    },
-    utilities: ["Docker", "Neovim", "Git", "LazyGit", "Yazi", "FZF"]
-};
-```
 
 <details>
     <summary><h2>📜 Data Analyst Certificate</h2></summary>
