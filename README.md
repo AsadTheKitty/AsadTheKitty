@@ -56,7 +56,11 @@ I am a **Security Researcher & Frontend Developer** passionate about building se
 </tr>
 
 <tr>
-<td></td>
+<td align="center">
+<a href="https://github.com/YourProjectsRepo">
+<img src="https://raw.githubusercontent.com/AsadTheKitty/AsadTheKitty/main/assets/Projects.png" width="320"/>
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/My-Notes-Roadmap-and-cheatsheets">
@@ -73,7 +77,10 @@ I am a **Security Researcher & Frontend Developer** passionate about building se
 </table>
 
 </div>
-```
+
+
+
+</div>
 
 
 ```javascript
